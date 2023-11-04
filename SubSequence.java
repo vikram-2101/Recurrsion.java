@@ -1,6 +1,6 @@
 public class SubSequence {
     public static void main(String[] args) {
-        
+        subseq("", "abc");
     }
       static void subseq(String processed, String unprocessed) {
         if(unprocessed.isEmpty()) {
