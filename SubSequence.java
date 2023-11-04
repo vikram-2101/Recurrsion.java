@@ -8,6 +8,8 @@ public class SubSequence {
             return;
         }
         char ch = unprocessed.charAt(0);
+        subseq(processed+ch, unprocessed.substring(1));
+        subseq(processed, unprocessed.substring(1));
       }
 
        
