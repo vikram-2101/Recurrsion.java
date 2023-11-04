@@ -42,5 +42,6 @@ public class RemoveCharacter {
             return unprocessed.charAt(0)+skipAppNotApple(unprocessed.substring(1));
           }
      }
+     
 
 }
