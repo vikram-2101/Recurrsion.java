@@ -1,7 +1,7 @@
 
 public class AllPath {
     public static void main(String[] args) {
-        boolean[][] board = {
+        boolean[][] board = {c
                 { true, true, true },
                 { true, true, true },
                 { true, true, true },
