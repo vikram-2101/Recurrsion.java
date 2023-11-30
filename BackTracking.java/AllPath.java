@@ -2,7 +2,7 @@
 public class AllPath {
     public static void main(String[] args) {
         boolean[][] board = {
-                { true, true, true },
+                { true, true, true },d
                 { true, true, true },
                 { true, true, true },
         };
