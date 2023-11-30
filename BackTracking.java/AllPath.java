@@ -1,4 +1,4 @@
-s
+
     
 public class AllPath {
     public static void main(String[] args) {
